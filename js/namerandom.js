@@ -37,7 +37,13 @@ var titles = [
     "firefox crypto D:",
     "awooga!",
     "© tylar blivin",
-    "oh no, our table!"
+    "oh no, our table!",
+    "the phrase it's just a game...",
+    "a sandwich (not asked for)",
+    "the fuck did you just say to me?",
+    "you kiss your mother with that mouth?",
+    "you shut that mouth",
+    "i am trained in gorilla warfare"
 ];
 
 var randomItem = titles[Math.floor(Math.random()*titles.length)];
