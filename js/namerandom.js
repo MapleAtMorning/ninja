@@ -43,7 +43,28 @@ var titles = [
     "the fuck did you just say to me?",
     "you kiss your mother with that mouth?",
     "you shut that mouth",
-    "i am trained in gorilla warfare"
+    "i am trained in gorilla warfare",
+    "nya~!",
+    "catboy ninja",
+    "thanks for the gold kind stranger",
+    "alchemist by good kid",
+    "i eat paint",
+    "glue sniffer",
+    "thans for ip!!!",
+    "twitter.com machine",
+    "fnaf used to be good",
+    "politics",
+    "mommy, sorry, mommy, sorry...",
+    "sorry that last one wasnt funny",
+    "gweilo government",
+    "zhang yong!!",
+    "waste of money",
+    "i love ultrakill",
+    "roblox bad, minecraft good",
+    "csgo gambling!",
+    "cringe",
+    "terrorism = advanced trolling",
+    "minecraft griefing"
 ];
 
 var randomItem = titles[Math.floor(Math.random()*titles.length)];
