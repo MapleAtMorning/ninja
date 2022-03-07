@@ -22,12 +22,10 @@ var titles = [
     "merry trollmas",
     "fuck you",
     "have you heard of among us?",
-    "exmonochrome",
     "sksksksksks",
     "dying light 2",
     "trans rights",
     "are you gay? take  this funny quiz!",
-    "he stares in to my soul and I like it",
     "i am lonely",
     "( ͡° ͜ʖ ͡°)",
     "2b2t",
@@ -53,7 +51,6 @@ var titles = [
     "twitter.com machine",
     "fnaf used to be good",
     "politics",
-    "mommy, sorry, mommy, sorry...",
     "sorry that last one wasnt funny",
     "gweilo government",
     "zhang yong!!",
@@ -76,7 +73,18 @@ var titles = [
     "index.html",
     "team fortress 2 life support",
     "follow on twitter",
-    "loot boxes coming soon"
+    "loot boxes coming soon",
+    "comic sans",
+    "microwave type beat",
+    "you're the 1mil visitor!",
+    "ryan is cool",
+    "sportsball",
+    "3 notifications",
+    "twitch tv",
+    "cheesecake",
+    "games unite",
+    "titanfall 2",
+    "pride :)"
 ];
 
 var randomItem = titles[Math.floor(Math.random()*titles.length)];
