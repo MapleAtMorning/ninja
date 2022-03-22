@@ -84,7 +84,13 @@ var titles = [
     "cheesecake",
     "games unite",
     "titanfall 2",
-    "pride :)"
+    "pride :)",
+    "happy a good day!",
+    "bad vibes only :)",
+    "it's monday... already?",
+    "shake your tail like this",
+    "funny cat doe",
+    "s"
 ];
 
 var randomItem = titles[Math.floor(Math.random()*titles.length)];
