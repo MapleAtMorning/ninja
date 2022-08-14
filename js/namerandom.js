@@ -90,7 +90,9 @@ var titles = [
     "it's monday... already?",
     "shake your tail like this",
     "funny cat doe",
-    "s"
+    "s",
+    "annoying orange",
+    "hyperx"
 ];
 
 var randomItem = titles[Math.floor(Math.random()*titles.length)];
